@@ -19,7 +19,7 @@ I am a versatile robotics engineer with the ability to adapt quickly to diverse 
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume]([https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing](https://drive.google.com/file/d/1dZ2-Ybi8S0n4hcoBCzeeTUVSgZGixQ0L/view?usp=drive_link))
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1dZ2-Ybi8S0n4hcoBCzeeTUVSgZGixQ0L/view?usp=drive_link)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98)
 
 <br/>
